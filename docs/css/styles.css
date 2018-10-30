@@ -1,0 +1,72 @@
+#wrapper {
+    width: 960px;
+    background-color: blanchedalmond;
+}
+
+.marginCenter {
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.displayInline {
+    display: inline;
+}
+.sqrPadding {
+    padding-left: 31px;
+    padding-right: 31px;
+}
+
+#banner {
+
+    background-image: url("../images/beer.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 300px;
+
+}
+
+.floatLeft {
+    float: left;
+}
+
+#top {
+    height: 100px;
+    line-height: 100px;
+}
+
+.clearMargin {
+
+    margin: 0px;
+}
+.clearPadding {
+    padding: 0px;
+}
+
+.clearFix {
+    clear: both;
+}
+
+.grSmall {
+    width: 329px;
+    padding-left: 19px;
+    padding-right: 19px;
+}
+
+.grBig {
+    width: 545px;
+    padding-left: 24px;
+    padding-right: 24px;
+}
+.textRight {
+    text-align: right;
+}
+
+
+#panel1, #panel2, #panel3 {
+
+    width: 320px;
+}
+
+.alignRight {
+    text-align: right;
+}
